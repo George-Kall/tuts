@@ -1,0 +1,2 @@
+# tuts
+Static site example
